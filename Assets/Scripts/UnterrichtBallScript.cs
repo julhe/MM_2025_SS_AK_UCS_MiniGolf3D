@@ -6,7 +6,7 @@ using TMPro;
 public class UnterrichtBallScript : MonoBehaviour
 {
     public ForceMode forceMode;
-
+    public float ForceMult = 1.0f;
     public int hits;
     Vector3 dragStart;
 
@@ -41,7 +41,7 @@ public class UnterrichtBallScript : MonoBehaviour
             // Wenn: mouse button up -> dann kraft auf ball.
             if (Input.GetMouseButtonUp(0))
             {
-                GetComponent<Rigidbody>().AddForce(dragStart - hit.point, forceMode);
+                GetComponent<Rigidbody>().AddForce((dragStart - hit.point) * ForceMult, forceMode);
 
                 // Erhöhe hits um 1.
                 hits += 1;
