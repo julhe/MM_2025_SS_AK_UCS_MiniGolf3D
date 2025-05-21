@@ -1,12 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
 public class GameSceneManager : MonoBehaviour
 {
     const string gameScene = "Game";
     public static GameSceneManager instance;
+
+    public UnityEvent OnBeginSceneLoad = new UnityEvent();
+    public UnityEvent OnEndSceneLoad = new UnityEvent();
 
     private void Awake()
     {
@@ -15,6 +19,7 @@ public class GameSceneManager : MonoBehaviour
 
     public void SwitchScene(string scene)
     {
+        OnBeginSceneLoad.Invoke();
         StartCoroutine(SwitchSceneRoutine(scene));
     }
 
@@ -42,7 +47,7 @@ public class GameSceneManager : MonoBehaviour
 
         // Load new scene.
         yield return SceneManager.LoadSceneAsync(sceneName, LoadSceneMode.Additive);
-
+        OnEndSceneLoad.Invoke();
     }
 
     // Runs when Unity or the play-mode is loaded. Ensures that the game scene is loaded.
