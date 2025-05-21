@@ -17,6 +17,8 @@ public class GameSceneManager : MonoBehaviour
         instance = this;
     }
 
+
+
     public void SwitchScene(string scene)
     {
         OnBeginSceneLoad.Invoke();
@@ -47,6 +49,7 @@ public class GameSceneManager : MonoBehaviour
 
         // Load new scene.
         yield return SceneManager.LoadSceneAsync(sceneName, LoadSceneMode.Additive);
+        SceneManager.SetActiveScene(SceneManager.GetSceneByName(sceneName));
         OnEndSceneLoad.Invoke();
     }
 

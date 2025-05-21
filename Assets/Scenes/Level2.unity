@@ -97,7 +97,8 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: a58dda233c007b5419426414e0127445,
+    type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -122,6 +123,298 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &67180947
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.4099998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &182199347
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &244459620
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &439698264
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
 --- !u!1 &664744948
 GameObject:
   m_ObjectHideFlags: 0
@@ -239,7 +532,7 @@ MonoBehaviour:
   m_ShadowRenderingLayers: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 1
+  m_SoftShadowQuality: 0
 --- !u!1001 &796100333
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -248,6 +541,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6864239571287684467, guid: 2b01f9a89508ebe478ccd0cfe068fe5e,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ebd04acc8a9934b48ae3e8204d16681e, type: 2}
     - target: {fileID: 6870946639550556473, guid: 2b01f9a89508ebe478ccd0cfe068fe5e,
         type: 3}
       propertyPath: m_Name
@@ -308,6 +606,492 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2b01f9a89508ebe478ccd0cfe068fe5e, type: 3}
+--- !u!1001 &816595101
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4200001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &828754448
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &1005451869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.8899999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &1021105684
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.4099998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &1022171922
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1 &1069781078
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1069781083}
+  - component: {fileID: 1069781082}
+  - component: {fileID: 1069781081}
+  - component: {fileID: 1069781080}
+  - component: {fileID: 1069781079}
+  m_Layer: 0
+  m_Name: Capsule
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1069781079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069781078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0021a1b33db316f41a6b6ac89ae9bd75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NextSceneName: Level1
+--- !u!136 &1069781080
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069781078}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1069781081
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069781078}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1069781082
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069781078}
+  m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1069781083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069781078}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12.69, y: 0.49, z: 0.46}
+  m_LocalScale: {x: 1.2062, y: 1.2062, z: 1.2062}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &1082424499
 Mesh:
   m_ObjectHideFlags: 0
@@ -541,6 +1325,79 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a51c18b711f066e40a9b4727c80c2607, type: 3}
+--- !u!1001 &1136811348
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
 --- !u!1 &1274828303
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,6 +1516,79 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1349133404
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
 --- !u!1 &1477069217
 GameObject:
   m_ObjectHideFlags: 0
@@ -796,6 +1726,371 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!1001 &1496635505
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &1517526451
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4200001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &1550334339
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &1558781713
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &1710451208
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
 --- !u!1 &1819990587
 GameObject:
   m_ObjectHideFlags: 0
@@ -1294,6 +2589,225 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1967588793
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &2064093870
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.8899999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
+--- !u!1001 &2072617411
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.6363363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
 --- !u!1 &2107466534
 GameObject:
   m_ObjectHideFlags: 0
@@ -1362,6 +2876,18 @@ MonoBehaviour:
       - m_Target: {fileID: 2144369291}
         m_TargetAssemblyTypeName: MovePlatform, Assembly-CSharp
         m_MethodName: SetPlatformActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1274828303}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
         m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1451,7 +2977,7 @@ Transform:
   m_GameObject: {fileID: 2107466534}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.61, y: 2.45, z: -15.26}
+  m_LocalPosition: {x: 0.58999956, y: 2.45, z: -14.31}
   m_LocalScale: {x: 3.6575, y: 3.6575, z: 3.6575}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1539,8 +3065,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MovePlatformToGoal: 0
-  Speed: 10
-  GoalPosition: {x: 0, y: 5.52, z: 0}
+  Speed: 9.35
+  GoalPosition: {x: 0, y: 4.63, z: 0}
 --- !u!23 &2144369292
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1600,7 +3126,7 @@ Transform:
   m_GameObject: {fileID: 2144369288}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.29, y: -1.13, z: -15.31}
+  m_LocalPosition: {x: 0.9, y: -1.13, z: -14.27}
   m_LocalScale: {x: 4.0582, y: 4.0582, z: 4.0582}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1674,6 +3200,79 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a51c18b711f066e40a9b4727c80c2607, type: 3}
+--- !u!1001 &7722420917868596474
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 64216673569619379, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: explosionRadius
+      value: 6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8863363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5329957926855600358, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996278114790690699, guid: 7e945cbb5c491bc4cbd72071f67e17fc,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveBarrel
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e945cbb5c491bc4cbd72071f67e17fc, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1687,3 +3286,24 @@ SceneRoots:
   - {fileID: 2107466539}
   - {fileID: 2144369294}
   - {fileID: 1274828306}
+  - {fileID: 1069781083}
+  - {fileID: 7722420917868596474}
+  - {fileID: 1136811348}
+  - {fileID: 1550334339}
+  - {fileID: 244459620}
+  - {fileID: 1558781713}
+  - {fileID: 1517526451}
+  - {fileID: 828754448}
+  - {fileID: 816595101}
+  - {fileID: 1710451208}
+  - {fileID: 1022171922}
+  - {fileID: 182199347}
+  - {fileID: 1349133404}
+  - {fileID: 1967588793}
+  - {fileID: 67180947}
+  - {fileID: 2072617411}
+  - {fileID: 1021105684}
+  - {fileID: 439698264}
+  - {fileID: 1005451869}
+  - {fileID: 1496635505}
+  - {fileID: 2064093870}
